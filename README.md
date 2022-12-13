@@ -17,3 +17,5 @@ There are various colors you can use – change the value 31 to:
 - 35 for magenta
 - 36 for cyan
 - 37 for white
+
+![View of psql with colors](/Final.png "psql promt")
