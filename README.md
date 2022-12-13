@@ -1,5 +1,5 @@
 # PSQL-Colors
-This if for .psqlrc config
+This if for .psqlrc config all you need to do is appent or replace from .psqlrc file and append to .zshrc or .bashrc config file
 
 - %M refers to the database server’s hostname – is “[local]” if the connection is over a Unix domain socket
 - %> refers to the listening port
